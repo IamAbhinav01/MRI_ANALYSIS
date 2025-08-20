@@ -101,11 +101,3 @@ Here are some screenshots demonstrating the application in action:
 ![Screenshot 2](image2.png)
 
 ![Screenshot 3](image3.png)
-
-## ⚖️ License
-
-[Add your license information here]
-
-## 👥 Contributors
-
-[Add contributor information here]
