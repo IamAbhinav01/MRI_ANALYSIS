@@ -1,0 +1,8 @@
+matplotlib
+opencv-python
+pillow
+streamlit
+
+scikit-learn
+
+torch
